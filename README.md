@@ -1,4 +1,5 @@
 Project main goal is learning tkinter
+
 Secondary goals:
   *button to add a new item
   *auto formatting the list of items
